@@ -62,7 +62,7 @@
       <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com?user=Azhari12&theme=tokyonight&date_format=j%20M%5B%20Y%5D" alt="Azhar12" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=zumrudu-anka&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=Azhari12&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
